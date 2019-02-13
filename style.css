@@ -1,0 +1,44 @@
+.title {
+	font-size: 16pt;
+	background: blue;
+	text-align: center;
+	padding: 9px;
+	color: white;
+	font-weight: bold;
+	display: block;
+}
+
+.category_list{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.category{
+	color:white;
+	background: blue;
+	display: inline;
+	padding: 10px;
+}
+
+.item_list{
+	background: aqua;
+	display: block;
+	padding-bottom: 150px;
+}
+
+.item{
+	padding: 10px;
+	width: 100px;
+	height: 100px;
+}
+
+.item_list_left{
+	width: 35%;
+	display: block;
+	float: left;
+}
+
+.item_list_right{
+	display: block;
+	width: 90%;
+}
